@@ -1,0 +1,50 @@
+{"id":"MLA639031628","title":"Kit Tren Delantero P/ Fiat Duna Uno Fiorino Completo","category_id":"MLA45514","category_name":"Kits de Trenes Delanteros"}
+{"id":"MLA691329055","title":"Parrilla De Suspensión P/ Peugeot 206 207 Derecha","category_id":"MLA373432","category_name":"Parrillas de Suspensión"}
+{"id":"MLA700347337","title":"Kit 2 Amortiguador Delantero Sachs Peugeot 308 408 Lounge","category_id":"MLA45548","category_name":"Amortiguadores"}
+{"id":"MLA609585868","title":"Kit X2 Amortiguadores Gol Vástago Corto Delantero Jorsa","category_id":"MLA45548","category_name":"Amortiguadores"}
+{"id":"MLA791978284","title":"Kit 4 Amortiguadores Suran 2004-2014","category_id":"MLA45548","category_name":"Amortiguadores"}
+{"id":"MLA791760503","title":"Amortiguador P/ Chevrolet Corsa Classic 1.6 1.7d Delantero","category_id":"MLA45548","category_name":"Amortiguadores"}
+{"id":"MLA742999153","title":"Kit 4 Amortiguador Corven Plus P/ Chevrolet Corsa Classic","category_id":"MLA45548","category_name":"Amortiguadores"}
+{"id":"MLA613976230","title":"Kit De 4 Amortiguadores Gol Trend Voyage  Fric Rot","category_id":"MLA45548","category_name":"Amortiguadores"}
+{"id":"MLA791926417","title":"Kit De 4 Amortiguadores P/ Fiat Palio Corven Plus Fire Des 0","category_id":"MLA45548","category_name":"Amortiguadores"}
+{"id":"MLA745112344","title":"Kit Embrague P/ Chevrolet Corsa 1.4 Sachs Ori","category_id":"MLA373460","category_name":"Kits de Embrague"}
+{"id":"MLA791953005","title":"Kit Amortiguadores Golf Mk4/bora Vástago Corto Del","category_id":"MLA45548","category_name":"Amortiguadores"}
+{"id":"MLA604195537","title":"Espirales Progresivos Ag Kit P/ Peugeot 206/207","category_id":"MLA45549","category_name":"Espirales"}
+{"id":"MLA791942560","title":"Chapon Cubre Carter Reforzado Gol Trend Voyage Fox Suran","category_id":"MLA60565","category_name":"Chapones Cubrecarters"}
+{"id":"MLA791777019","title":"Kit X2 Amortiguadores Gol Vástago Corto Delantero Jorsa","category_id":"MLA45548","category_name":"Amortiguadores"}
+{"id":"MLA796356661","title":"Soporte Motor Vw Gol Trend/voyage/fox /suran/sav  Der","category_id":"MLA373315","category_name":"Soportes de Motor"}
+{"id":"MLA791975974","title":"Kit De 4 Amortiguadores Fric Rot P/ Chevrolet Corsa Classic","category_id":"MLA45548","category_name":"Amortiguadores"}
+{"id":"MLA639037876","title":"Kit Tren Delantero P/ Fiat Duna Uno","category_id":"MLA45514","category_name":"Kits de Trenes Delanteros"}
+{"id":"MLA791762996","title":"Kit Tren Delantero Con Cremallera P/ Fiat Duna Uno","category_id":"MLA45514","category_name":"Kits de Trenes Delanteros"}
+{"id":"MLA791767521","title":"Kit De Tren Delantero P/ Chevrolet Corsa 97/2010 (12 Piezas)","category_id":"MLA45514","category_name":"Kits de Trenes Delanteros"}
+{"id":"MLA791757571","title":"Kit X2 Amortiguador P/ Chevrolet Aveo Delantero Con Cazoleta","category_id":"MLA45548","category_name":"Amortiguadores"}
+{"id":"MLA792710379","title":"Amortiguador X2 Delantero Sachs P/ Citroen C4 Con Cazoletas","category_id":"MLA45548","category_name":"Amortiguadores"}
+{"id":"MLA791765505","title":"Kit Tren Dela Con Amortiguador P/ Ford Falcon (1974-1992)","category_id":"MLA45514","category_name":"Kits de Trenes Delanteros"}
+{"id":"MLA791975971","title":"Kit Amortiguadores P/ Peugeot 206/207 Vástago Corto Del","category_id":"MLA45548","category_name":"Amortiguadores"}
+{"id":"MLA791978045","title":"Kit X2 Amortiguadores Bora Vástago Corto Jorsa","category_id":"MLA45548","category_name":"Amortiguadores"}
+{"id":"MLA704210978","title":"Kit Tren Delantero Completo P/ Renault Kangoo Amort Monroe","category_id":"MLA45514","category_name":"Kits de Trenes Delanteros"}
+{"id":"MLA791774339","title":"Kit X2 Amortiguador Delantero Fric Rot P/ Chevrolet Astra 99","category_id":"MLA45548","category_name":"Amortiguadores"}
+{"id":"MLA791769132","title":"Kit X2 Amortiguador Dela Record P/ Chevrolet Corsa Classic","category_id":"MLA45548","category_name":"Amortiguadores"}
+{"id":"MLA642776586","title":"Kit X2 Amortiguador Delantero Record P/ Fiat Uno","category_id":"MLA45548","category_name":"Amortiguadores"}
+{"id":"MLA776967692","title":"Kit De Espirales Progresivos  Gol Power 1.0 Mod 04/16 Delant","category_id":"MLA45549","category_name":"Espirales"}
+{"id":"MLA607574483","title":"Kit De 4 Amortiguadores P/ Fiat Palio Fire Des 01corven Plus","category_id":"MLA45548","category_name":"Amortiguadores"}
+{"id":"MLA791978260","title":"Kit De 4 Amortiguadores P/ Renault Megane 1  Corven Plus","category_id":"MLA45548","category_name":"Amortiguadores"}
+{"id":"MLA791977988","title":"Kit De 4 Amortiguadores Corsa Classic","category_id":"MLA45548","category_name":"Amortiguadores"}
+{"id":"MLA607574512","title":"Kit De 4 Amortiguadores P/ Renault 19 Corven Plus  Hasta 99","category_id":"MLA45548","category_name":"Amortiguadores"}
+{"id":"MLA795503741","title":"Pata Soporte Motor Caja Central Chevrolet Corsa 2 Meriva","category_id":"MLA373315","category_name":"Soportes de Motor"}
+{"id":"MLA625304569","title":"Amortiguador P/ Chevrolet Corsa Classic 1.6 1.7d Delantero","category_id":"MLA45548","category_name":"Amortiguadores"}
+{"id":"MLA791893335","title":"Cubre Carter P/ Vw Golf/bora/new Beetle99 1.6-2.0-1.8t-tdi","category_id":"MLA60565","category_name":"Chapones Cubrecarters"}
+{"id":"MLA639040064","title":"Kit Tren Delantero Con Cremallera P/ Fiat Duna Uno","category_id":"MLA45514","category_name":"Kits de Trenes Delanteros"}
+{"id":"MLA791983057","title":"Kit X2 Amortiguadores Corven Plus Delantero Fiesta Max 02/08","category_id":"MLA45548","category_name":"Amortiguadores"}
+{"id":"MLA626798895","title":"Kit X2 Amortiguadores P/ Fiat Uno Vastago Corto Jorsa","category_id":"MLA45548","category_name":"Amortiguadores"}
+{"id":"MLA791932777","title":"Kit X2 Amortiguadores  P/ Ford Focus Corven Plus Trasero","category_id":"MLA45548","category_name":"Amortiguadores"}
+{"id":"MLA791933764","title":"Kit De 4 Amortiguadores Suran Sachs","category_id":"MLA45548","category_name":"Amortiguadores"}
+{"id":"MLA791952610","title":"Kit De Espirales Progresivos Delanteros Corsa","category_id":"MLA45549","category_name":"Espirales"}
+{"id":"MLA791758870","title":"Kit Tren Dela Completo Amortiguador X4 Sachs P/ Citroen C4","category_id":"MLA45514","category_name":"Kits de Trenes Delanteros"}
+{"id":"MLA791773330","title":"Kit De 4 Amortiguadores Amarok Fric Rot","category_id":"MLA45548","category_name":"Amortiguadores"}
+{"id":"MLA764245106","title":"Amortiguador Vástago Corto P/ Vw Gacel/gol/senda/saveiro Del","category_id":"MLA45548","category_name":"Amortiguadores"}
+{"id":"MLA608314518","title":"Kit X2 Amortiguadores  Gol Vástago Corto","category_id":"MLA45548","category_name":"Amortiguadores"}
+{"id":"MLA791764034","title":"Kit Tren Delantero Y Amortiguadores Corsa Classic","category_id":"MLA45514","category_name":"Kits de Trenes Delanteros"}
+{"id":"MLA791774493","title":"Kit X2 Amortiguador Delantero Fric Rot P/ Peugeot 206","category_id":"MLA45548","category_name":"Amortiguadores"}
+{"id":"MLA641512543","title":"Kit X2 Amortiguadores P/ Peugeot 308 , 408  Corven Hitech De","category_id":"MLA45548","category_name":"Amortiguadores"}
+{"id":"MLA791770129","title":"Kit X2 Amortiguadores P/ Peugeot 308 408 Corven Hitechtraser","category_id":"MLA45548","category_name":"Amortiguadores"}

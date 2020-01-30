@@ -1,0 +1,50 @@
+{"id":"MLA609714710","title":"Ups Apc 900va Back-ups 6 Tomas Estabilizador Y Protector De Tension Gtia Oficial 2años Br900 Para Tv, Play, Pc","category_id":"MLA1720","category_name":"UPS"}
+{"id":"MLA609116302","title":"Ups Apc 1500va Con Ahorro De Energa Estabilizador Y Protector De Tension Gtia Oficial Ideal Para Uso Gamer","category_id":"MLA1720","category_name":"UPS"}
+{"id":"MLA723727507","title":"Notebook Dell I3 7020u 8gb 1tb + Ssd 480gb Win10 En Cuotas","category_id":"MLA1652","category_name":"Notebooks"}
+{"id":"MLA701426348","title":"Notebook Laptop I3 Dell Inspiron 8gb 1tb 14  Win 10 Teclado Con Ñ Gtia De Tienda Oficial - Factura A Y B Gamer","category_id":"MLA1652","category_name":"Notebooks"}
+{"id":"MLA812460317","title":"Notebook Laptop Dell Inspiron 3481 I3 8gb 1tb 14 Ubuntu Teclado Con Ñ Gtia De Tienda Oficial - Factura A Y B Ram","category_id":"MLA1652","category_name":"Notebooks"}
+{"id":"MLA677347202","title":"Notebook Dell Inspiron I3 8g 1tb + Ssd 240gb Win10 En Cuotas","category_id":"MLA1652","category_name":"Notebooks"}
+{"id":"MLA677347584","title":"Notebook Dell Inspiron I3 8gb 1tb 14 Win 10 Teclado Con Ñ Garantia De Tienda Oficial - Factura A Y B Ram","category_id":"MLA1652","category_name":"Notebooks"}
+{"id":"MLA818935353","title":"Notebook Laptop Dell Inspiron 3481 I3 12gb 1tb 14 Ubuntu","category_id":"MLA1652","category_name":"Notebooks"}
+{"id":"MLA673585449","title":"Notebook Dell I3 4gb 1tb Windows 10","category_id":"MLA1652","category_name":"Notebooks"}
+{"id":"MLA824013455","title":"Notebook Laptop Dell Inspiron 3481 I3 8gb 1tb Ssd 240 14 Ubu","category_id":"MLA1652","category_name":"Notebooks"}
+{"id":"MLA677239433","title":"Notebook Dell Inspiron I3 4gb 1tb 14 Windows 10","category_id":"MLA1652","category_name":"Notebooks"}
+{"id":"MLA830190937","title":"Notebook Dell I3 7020u 16gb 1tb + Ssd 480gb Win10 En Cuotas","category_id":"MLA1652","category_name":"Notebooks"}
+{"id":"MLA677344596","title":" Notebook Dell Inspiron I3 7020u 8gb 1tb + Ssd 480gb Win10 ","category_id":"MLA1652","category_name":"Notebooks"}
+{"id":"MLA812459645","title":"Notebook Laptop Dell Inspiron 3481 I3 4gb 1tb 14 Ubuntu Teclado Con Ñ Gtia De Tienda Oficial - Factura A Y B","category_id":"MLA1652","category_name":"Notebooks"}
+{"id":"MLA683737338","title":"Notebook Laptop Dell Inspiron I3 4gb 1tb 14 Win 10 Teclado Con Ñ Garantia De Tienda Oficial - Factura A Y B","category_id":"MLA1652","category_name":"Notebooks"}
+{"id":"MLA827643947","title":"Notebook Laptop Dell Inspiron 3481 I3 8gb 1tb Ssd 240 14 Ubu","category_id":"MLA1652","category_name":"Notebooks"}
+{"id":"MLA815134739","title":"Notebook Dell Inspiron I5 16gb + 240ssd 1tb Win 10 Oferta","category_id":"MLA1652","category_name":"Notebooks"}
+{"id":"MLA799461485","title":"Notebook Dell Inspiron I7 256ssd 8g 13,3fhd Geforce Win10 ","category_id":"MLA1652","category_name":"Notebooks"}
+{"id":"MLA673439392","title":"Notebook Laptop Dell Inspiron I3 4gb 1tb 14 Ubuntu Teclado Con Ñ Gtia De Tienda Oficial - Factura A Y B","category_id":"MLA1652","category_name":"Notebooks"}
+{"id":"MLA731364718","title":"Notebook Laptop Dell Inspiron I5 8gb 256ssd + 1tb Win 10","category_id":"MLA1652","category_name":"Notebooks"}
+{"id":"MLA814166024","title":"Notebook Dell Inspiron I7 256ssd 8gb 15.6 W10 Gforce Oferta","category_id":"MLA1652","category_name":"Notebooks"}
+{"id":"MLA814430760","title":"Notebook Dell Inspiron I7 256ssd 8g 15.6 W10 Gf Ram Cuotas","category_id":"MLA1652","category_name":"Notebooks"}
+{"id":"MLA663213659","title":"Notebook Laptop Dell Vostro I5 8gb 1tb 14 Win 10pro Teclado Con Ñ Gtia De Tienda Oficial - Factura A / B","category_id":"MLA1652","category_name":"Notebooks"}
+{"id":"MLA677341801","title":"Notebook Dell Inspiron 5584 I5 16g 2t Win 10 Gforce Ram - Ideal Para Juegos Y Diseño","category_id":"MLA1652","category_name":"Notebooks"}
+{"id":"MLA689122291","title":"Notebook Dell I5 8gb 1tb + Ssd Windows 10","category_id":"MLA1652","category_name":"Notebooks"}
+{"id":"MLA673439018","title":"Notebook Laptop Dell Inspiron I3 8gb 1tb 15,6 Fhd Ubuntu Teclado Con Ñ Gtia De Tienda Oficial - Factura A Y B","category_id":"MLA1652","category_name":"Notebooks"}
+{"id":"MLA815159019","title":"Notebook Dell Inspiron I7 256ssd 8g 13,3fhd Gf Win10 Cuotas","category_id":"MLA1652","category_name":"Notebooks"}
+{"id":"MLA663219035","title":"Notebook Laptop Dell Inspiron I5 8g 1tb Ubuntu Teclado Con Ñ Gtia De Tienda Oficial - Factura A Y B Oferta","category_id":"MLA1652","category_name":"Notebooks"}
+{"id":"MLA833353261","title":"Notebook Laptop Dell I7 10g 32g 256ssd + 1t W10 Gf Cuotas","category_id":"MLA1652","category_name":"Notebooks"}
+{"id":"MLA834430429","title":"Notebook Dell Inspiron I7 256ssd + 480ssd 16gb W10gforce ","category_id":"MLA1652","category_name":"Notebooks"}
+{"id":"MLA665668653","title":"Notebook Laptop Dell I7 10g 32g 256ssd + 480ssd W10 Gforce","category_id":"MLA1652","category_name":"Notebooks"}
+{"id":"MLA762122266","title":"Dock Universal Dell D6000 Usb A 3.0 Tipo C Hdmi Display Port","category_id":"MLA3581","category_name":"Docking Stations y Replicators"}
+{"id":"MLA669761931","title":"Notebook Dell Latitude I5 8gb 256ssd 14 Win10 Profesional - Ideal Para Pymes Con Garantia Oficial De 3 Años","category_id":"MLA1652","category_name":"Notebooks"}
+{"id":"MLA724377042","title":"Servidor Poweredge Dell T30 Intel Xeon E3-1225v5 8gb 1tb Hd Ideal Para Empresa Con Garantia Oficial - Factura A B","category_id":"MLA1649","category_name":"PC"}
+{"id":"MLA636238020","title":"Impresora Laser Lexmark Mb2338adw Wi Fi Fotocopiadora Mx317","category_id":"MLA1676","category_name":"Impresoras"}
+{"id":"MLA609550688","title":"Ups Apc Easy 500va Estabilizador Y Protector De Tension Con Ahorro De Energia Gtia Oficial 2 Años","category_id":"MLA1720","category_name":"UPS"}
+{"id":"MLA812489388","title":"Notebook I5 Dell Vostro 14 4gb 1tb Win 10 Pro Teclado Con Ñ Gtia De Tienda Oficial - Factura A Y B","category_id":"MLA1652","category_name":"Notebooks"}
+{"id":"MLA823737695","title":"Notebook Laptop Dell Inspiron I5 8g 1tb Win 10 Cuotas","category_id":"MLA1652","category_name":"Notebooks"}
+{"id":"MLA687925263","title":"Notebook Laptop Dell Inspiron I5 10g 8g 256ssd Win10 Oferta","category_id":"MLA1652","category_name":"Notebooks"}
+{"id":"MLA812466999","title":"Notebook Laptop Dell Inspiron I7 10g 16g 256ssd + 1t W10 Gf ","category_id":"MLA1652","category_name":"Notebooks"}
+{"id":"MLA750022702","title":"Notebook Dell Latitude I7 8650u 8gb 1tb 14 Win10p","category_id":"MLA1652","category_name":"Notebooks"}
+{"id":"MLA774445312","title":"Xbox Live Gold De 12 Meses / 1 Año Xbox One / 360 Global","category_id":"MLA72958","category_name":"Tarjetas Xbox Live"}
+{"id":"MLA833705652","title":"Notebook Laptop Dell Inspiron I5 10g 16g 256gb Win10 Ram","category_id":"MLA1652","category_name":"Notebooks"}
+{"id":"MLA681788699","title":"Notebook Laptop Dell Inspiron I5 8g 1tb Win 10 Teclado Con Ñ Gtia De Tienda Oficial - Factura A Y B Oferta","category_id":"MLA1652","category_name":"Notebooks"}
+{"id":"MLA828326544","title":"Pendrive 16gb Kingston","category_id":"MLA4980","category_name":"Pendrives"}
+{"id":"MLA732866335","title":"Licencia Windows 10 Home 64bits Original Coem Oferta - Actualiza Tu Equipo - Ideal Para Hogar","category_id":"MLA1737","category_name":"Sistemas Operativos"}
+{"id":"MLA677346308","title":"Notebook Laptop Dell Inspiron I3 8gb 1tb 14 Ubuntu Teclado Con Ñ Gtia De Tienda Oficial - Factura A Y B Ram","category_id":"MLA1652","category_name":"Notebooks"}
+{"id":"MLA766892457","title":"Dock Universal Dell Da300 Usb A 3.0 Tipo C Hdmi Display Port","category_id":"MLA3581","category_name":"Docking Stations y Replicators"}
+{"id":"MLA680918722","title":"Notebook Dell Inspiron I5 16gb 256ssd Win 10 Gforce Oferta","category_id":"MLA1652","category_name":"Notebooks"}
+{"id":"MLA723669753","title":"Notebook Laptop Dell Inspiron I3 16gb 1tb 15,6 Fhd Win 10 Teclado Ñ Gtia Tienda Oficial - Factura A Y B Ram","category_id":"MLA1652","category_name":"Notebooks"}
